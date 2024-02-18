@@ -1,0 +1,5 @@
+streamlit 
+PIL 
+openCv
+numpy 
+pillow 9.2.0
