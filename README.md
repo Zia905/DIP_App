@@ -1,5 +1,5 @@
 # Image_processing 
-This is a simple image processing app built with Streamlit and OpenCV. The app allows users to upload an image and apply various image processing techniques.
+This is an image processing app built with Streamlit and OpenCV. The app allows users to upload an image and apply various image processing techniques.
 # Features
 Upload an image in JPG, JPEG, or PNG format.
 
